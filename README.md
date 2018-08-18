@@ -1,4 +1,4 @@
-# Map Lab
+ Lab
 
 ## Problem Statement
 
